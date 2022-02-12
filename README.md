@@ -7,7 +7,7 @@ email address must be a valid email, and the password must have at least 8 chara
 
 ## ".apk" File
 
-The executable ".apk" file is available in 
+The executable ".apk" file is available in https://github.com/DigitalCreativeApkDev/SimpleLoginApp/blob/master/SimpleLoginApp.apk.
 
 ## Login Page
 
